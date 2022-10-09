@@ -1,3 +1,3 @@
-# Welcome
+# Welcome 😁
 
-This is the github org for a CSC 190 & 191 project
+This github organization contains the data and code used to present and store the collections database entries
